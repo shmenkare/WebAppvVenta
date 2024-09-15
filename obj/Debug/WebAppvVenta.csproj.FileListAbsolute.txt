@@ -1,0 +1,4 @@
+F:\Mis Documentos\Visual Studio 2010\Projects\Practicas Desarrollador .NET\WebAppvVenta\bin\WebAppvVenta.dll
+F:\Mis Documentos\Visual Studio 2010\Projects\Practicas Desarrollador .NET\WebAppvVenta\bin\WebAppvVenta.pdb
+F:\Mis Documentos\Visual Studio 2010\Projects\Practicas Desarrollador .NET\WebAppvVenta\obj\Debug\WebAppvVenta.dll
+F:\Mis Documentos\Visual Studio 2010\Projects\Practicas Desarrollador .NET\WebAppvVenta\obj\Debug\WebAppvVenta.pdb
