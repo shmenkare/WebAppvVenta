@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Pedidos</title>
-    <link rel=Stylesheet href= styleCss.css />
+    <link rel="Stylesheet" href= "styleCss.css" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -15,11 +15,11 @@
     <p>Seleccione el/los productos de la lista y presione
      el boton "Realizar pedido" para continuar</p>
 
-     <asp:Label ID=Label1 runat=server Text="Productos disponibles"></asp:Label>
+     <asp:Label ID="Label1" runat="server" Text="Productos disponibles"></asp:Label>
      <br />
-     <asp:ListBox ID= ProductosListBox runat=server SelectionMode=Multiple></asp:ListBox>
+     <asp:ListBox ID= "ProductosListBox" runat="server" SelectionMode="Multiple"></asp:ListBox>
      <br />
-     <asp:Button ID= SubmitButton runat=server Text="Realizar pedido" />    
+     <asp:Button ID= "SubmitButton" runat="server" Text="Realizar pedido" />    
 
     </div>
     </form>
