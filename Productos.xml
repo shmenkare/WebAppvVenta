@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<productos>
+ 
+  <producto>
+    <Id>1</Id>
+    <Nombre>Computadora de escritorio</Nombre>
+    <Precio>1200</Precio>
+    <Alto>100</Alto>
+    <Ancho>100</Ancho>
+    <Peso>4</Peso>
+  </producto>
+
+  <producto>
+    <Id>2</Id>
+    <Nombre>Notebook</Nombre>
+    <Precio>2200</Precio>
+    <Alto>70</Alto>
+    <Ancho>70</Ancho>
+    <Peso>2</Peso>
+  </producto>
+
+  <producto>
+    <Id>3</Id>
+    <Nombre>Servidor 1</Nombre>
+    <Precio>4300</Precio>
+    <Alto>150</Alto>
+    <Ancho>120</Ancho>
+    <Peso>6</Peso>
+  </producto>
+
+  <producto>
+    <Id>4</Id>
+    <Nombre>Notebook Ultra Liviana</Nombre>
+    <Precio>3200</Precio>
+    <Alto>59</Alto>
+    <Ancho>62</Ancho>
+    <Peso>1.6</Peso>
+  </producto>
+  
+</productos>

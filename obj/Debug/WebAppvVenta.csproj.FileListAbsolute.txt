@@ -2,3 +2,7 @@ F:\Mis Documentos\Visual Studio 2010\Projects\Practicas Desarrollador .NET\WebAp
 F:\Mis Documentos\Visual Studio 2010\Projects\Practicas Desarrollador .NET\WebAppvVenta\bin\WebAppvVenta.pdb
 F:\Mis Documentos\Visual Studio 2010\Projects\Practicas Desarrollador .NET\WebAppvVenta\obj\Debug\WebAppvVenta.dll
 F:\Mis Documentos\Visual Studio 2010\Projects\Practicas Desarrollador .NET\WebAppvVenta\obj\Debug\WebAppvVenta.pdb
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\WebAppvVenta\bin\WebAppvVenta.dll
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\WebAppvVenta\bin\WebAppvVenta.pdb
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\WebAppvVenta\obj\Debug\WebAppvVenta.dll
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\WebAppvVenta\obj\Debug\WebAppvVenta.pdb

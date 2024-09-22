@@ -17,9 +17,16 @@
 
      <asp:Label ID="Label1" runat="server" Text="Productos disponibles"></asp:Label>
      <br />
+     <br />
      <asp:ListBox ID= "ProductosListBox" runat="server" SelectionMode="Multiple"></asp:ListBox>
      <br />
-     <asp:Button ID= "SubmitButton" runat="server" Text="Realizar pedido" />    
+     <br />
+     <asp:Button ID= "SubmitButton" runat="server" Text="Realizar pedido" 
+           OnClick= "RealizarPedido" />    
+     <br />
+     <br />
+     <asp:Label ID= "Mensaje" runat="server">
+     </asp:Label>
 
     </div>
     </form>

@@ -1,4 +1,52 @@
-﻿body 
+﻿body
 {
- background-color: #333333
+	background-color:#273746 ;
+	font-family: Comic Sans MS;
 }
+
+div 
+{
+    background-color: #154360;
+}
+
+h1
+{
+	background-color:#aed6f1;
+	border-width:medium;
+}
+
+p
+{
+	color: #ffffff;
+}
+
+#Label1
+{
+	color: #ffffff;
+}
+
+#SubmitButton
+{
+	font-size:large;
+	font-weight:bold;
+	background-color:#aed6f1;
+	border-radius: 8px;
+}
+
+#Mensaje
+{
+	background-color: #aed6f1;
+	border-radius: 8px;
+	font-size:large;
+	font-weight:bold;
+}
+
+#ProductosListBox
+{
+	background-color: #17202a; 
+	font-size:large;
+	font-weight:bold;
+	color: #ffffff;
+	font-family: Comic Sans MS;
+}
+
