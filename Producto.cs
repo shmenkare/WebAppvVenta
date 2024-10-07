@@ -12,11 +12,8 @@ namespace WebAppvVenta
         private Medidas medidas;
         private int id;
 
-        public int Id
-        {
-            get { return id; }
-            set { id = value; }
-        }
+        public int Id {get; set;}
+       
 
         public Medidas Medidas
         {
@@ -34,18 +31,10 @@ namespace WebAppvVenta
 
         }
 
-        public double Precio
-        {
-            get { return precio; }
-            set { precio = value; }
-        }
+        public double Precio {get; set;}
         
-
-            public string Nombre
-        {
-            get { return nombre; }
-            set { nombre = value; }
-        }
+        public string Nombre {get; set;}
+        
 
         public Producto(){}
         

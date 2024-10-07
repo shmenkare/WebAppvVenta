@@ -12,7 +12,7 @@ namespace WebAppvVenta
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if(!IsPostBack)
+            if (!IsPostBack)
             {
                 ProductosListBox.DataSource = Sistema.ProductosDisponibles();
                 ProductosListBox.DataTextField = "Nombre";
@@ -24,11 +24,12 @@ namespace WebAppvVenta
         protected void RealizarPedido(object sender, EventArgs e)
         {
             //Usamos el metodo ComprarProductos especializado para obtener una lista ListItem
-            
+
             Sistema.ComprarProductos(ProductosListBox.Items);
             Mensaje.Text = @"Su compra ha sido realizada con exito. Nos contactaremos con usted";
+            Precio.Text = String.Format("El monto a pagar es: {0}", ProductosListBox.DataValueField);
         }
 
-        
+
     }
 }

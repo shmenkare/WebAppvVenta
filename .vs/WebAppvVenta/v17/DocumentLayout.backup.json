@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\ASP.NET\\WebAppvVenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC7C8CD5-4001-408E-9863-A372E59DC64C}|WebAppvVenta.csproj|f:\\mis documentos\\cursos\\programing\\repos visual studio\\proyectos .net framework\\desarrollador .net\\asp.net\\webappvventa\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EC7C8CD5-4001-408E-9863-A372E59DC64C}|WebAppvVenta.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC7C8CD5-4001-408E-9863-A372E59DC64C}|WebAppvVenta.csproj|f:\\mis documentos\\cursos\\programing\\repos visual studio\\proyectos .net framework\\desarrollador .net\\asp.net\\webappvventa\\productos.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EC7C8CD5-4001-408E-9863-A372E59DC64C}|WebAppvVenta.csproj|solutionrelative:productos.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -25,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC7C8CD5-4001-408E-9863-A372E59DC64C}|WebAppvVenta.csproj|f:\\mis documentos\\cursos\\programing\\repos visual studio\\proyectos .net framework\\desarrollador .net\\asp.net\\webappvventa\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC7C8CD5-4001-408E-9863-A372E59DC64C}|WebAppvVenta.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C8CD5-4001-408E-9863-A372E59DC64C}|WebAppvVenta.csproj|f:\\mis documentos\\cursos\\programing\\repos visual studio\\proyectos .net framework\\desarrollador .net\\asp.net\\webappvventa\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EC7C8CD5-4001-408E-9863-A372E59DC64C}|WebAppvVenta.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Default.aspx",
               "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\ASP.NET\\WebAppvVenta\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
@@ -55,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\ASP.NET\\WebAppvVenta\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Default.aspx.cs",
@@ -68,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Producto.cs",
               "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\ASP.NET\\WebAppvVenta\\Producto.cs",
               "RelativeDocumentMoniker": "Producto.cs",
@@ -81,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Medidas.cs",
               "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\ASP.NET\\WebAppvVenta\\Medidas.cs",
               "RelativeDocumentMoniker": "Medidas.cs",
@@ -94,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Sistema.cs",
               "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\ASP.NET\\WebAppvVenta\\Sistema.cs",
               "RelativeDocumentMoniker": "Sistema.cs",
@@ -107,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Productos.xml",
               "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\ASP.NET\\WebAppvVenta\\Productos.xml",
               "RelativeDocumentMoniker": "Productos.xml",
@@ -117,6 +113,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2024-09-22T05:44:11.261Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },

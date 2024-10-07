@@ -37,5 +37,14 @@
     <Ancho>62</Ancho>
     <Peso>1.6</Peso>
   </producto>
+
+  <producto>
+    <Id>5</Id>
+    <Nombre>PC Gamer</Nombre>
+    <Precio>5200</Precio>
+    <Alto>70</Alto>
+    <Ancho>65</Ancho>
+    <Peso>2.6</Peso>
+  </producto>
   
 </productos>
